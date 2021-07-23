@@ -2,7 +2,7 @@ package ec.edu.espe.registro.utils;
 
 /**
  *
- * @author sigma programers
+ * @author Bryan Castro
  */
 public interface DBManager extends Persistence {
 

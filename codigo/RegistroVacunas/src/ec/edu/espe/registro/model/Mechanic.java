@@ -2,7 +2,7 @@ package ec.edu.espe.registro.model;
 
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan Castro
  */
 public class Mechanic extends Ususario {
 

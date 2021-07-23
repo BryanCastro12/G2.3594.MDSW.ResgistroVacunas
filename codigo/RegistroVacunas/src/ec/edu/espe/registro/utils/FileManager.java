@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan Castro
  */
 public class FileManager implements Persistence {
 

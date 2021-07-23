@@ -12,7 +12,7 @@ import com.mongodb.MongoClient;
 
 /**
  *
- * @author SigmaProgramers
+ * @author Bryan Castro
  */
 public class OperationMongoDB {
 

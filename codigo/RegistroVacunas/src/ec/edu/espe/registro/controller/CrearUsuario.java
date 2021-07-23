@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan Castro
  */
 public class CrearUsuario {
 

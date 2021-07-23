@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan Castro
  */
 public class FrmLoginTest {
     

@@ -4,7 +4,7 @@ import com.mongodb.BasicDBObject;
 
 /**
  *
- * @author Sigma Programers
+ * @author Bryan Castro
  */
 public interface Persistence {
 

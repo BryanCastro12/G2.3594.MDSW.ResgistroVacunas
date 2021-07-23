@@ -8,7 +8,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan Castro
  */
 public class FrmLogin extends javax.swing.JFrame {
 

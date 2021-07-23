@@ -5,7 +5,7 @@ import com.mongodb.DBObject;
 
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan Castro
  */
 public class rLogin {
 

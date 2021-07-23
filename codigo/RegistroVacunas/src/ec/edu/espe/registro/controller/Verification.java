@@ -2,7 +2,7 @@ package ec.edu.espe.registro.controller;
 
 /**
  *
- * @author Sigma Programers
+ * @author Bryan Castro
  */
 public class Verification {
 
