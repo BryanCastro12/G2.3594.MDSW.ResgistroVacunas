@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/controller/CrearUsuario.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/utils/FileManager.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/model/Customer.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/utils/DBManager.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/utils/Persistence.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/controller/Verification.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/test/ec/edu/espe/registro/controller/ValueUserLoginTest.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/controller/rLogin.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/view/FrmRegister.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/model/Mechanic.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/test/ec/edu/espe/registro/view/FrmRegisterTest.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/model/Ususario.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/utils/Connection.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/test/ec/edu/espe/registro/view/FrmLoginTest.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/test/ec/edu/espe/registro/model/CustomerTest.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/view/FrmLogin.java</file>
+            <file>file:/C:/Users/home/Desktop/G2.MDSW.ResgistroVacunas/codigo/RegistroVacunas/src/ec/edu/espe/registro/utils/OperationMongoDB.java</file>
+        </group>
+    </open-files>
+</project-private>
