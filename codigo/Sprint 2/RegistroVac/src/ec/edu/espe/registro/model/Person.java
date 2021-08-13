@@ -1,7 +1,7 @@
 package ec.edu.espe.registro.model;
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan 
  */
 public class Person {
 

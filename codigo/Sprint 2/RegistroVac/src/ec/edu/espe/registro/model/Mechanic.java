@@ -2,7 +2,7 @@ package ec.edu.espe.registro.model;
 
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan 
  */
 public class Mechanic extends Person {
 

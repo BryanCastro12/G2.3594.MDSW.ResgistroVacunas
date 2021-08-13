@@ -5,7 +5,7 @@ import com.mongodb.MongoClientURI;
 
 /**
  *
- * @author Sigma Programmers
+ * @author Bryan 
  */
 public class Connection {
 
